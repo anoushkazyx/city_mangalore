@@ -1,0 +1,108 @@
+body
+{
+margin: 0;
+  background-color:#233714;
+}
+span
+{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 80px;
+}
+h1
+{
+  font-family: 'Lato', sans-serif;
+  font-size: 40px;
+  margin: 0;
+}
+h2
+{
+   font-family: 'Roboto', sans-serif;
+   font-size: 30px;
+}
+p
+{
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+}
+pre
+{
+  margin: 0;
+}
+.ibox1
+{
+  position: absolute;
+  top: 50%;
+  background-color: #efcfb6;
+  opacity: 0.9;
+
+}
+.heading1
+{
+  text-align: center;
+  letter-spacing:4px;
+}
+.box1
+{
+  background-image: url(beach2.jpg);
+  height: 700px;
+  width: 100%;
+   opacity: 0.5;
+}
+.box2
+{
+  background-image: url(temple2.jpg);
+  height: 500px;
+  width:100%;
+  opacity: 0.5;
+}
+.box3
+{
+  background-image: url(waterfalls2.jpg);
+  height: 500px;
+  width:100%;
+  opacity: 0.5;
+}
+.box4
+{
+  background-image: url(village2.jpg);
+  height: 500px;
+  width:100%;
+  opacity: 0.5;
+}
+.box1, .box2 ,.box3, .box4
+{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+ background-attachment:fixed;
+
+}
+.sec1
+{
+text-align: center;
+padding: 50px 80px;
+background-color: #efcfb6;
+}
+.sec2
+{
+  text-align: center;
+  padding: 50px 80px;
+  background-color: #efcfb6;
+}
+.sec3
+{
+  text-align: center;
+  padding: 50px 80px;
+  background-color: #efcfb6;
+}
+.sec4
+{
+  text-align: center;
+  padding: 50px 80px;
+  background-color: #efcfb6;
+}
+.imtext
+{
+  margin: 0;
+
+}
